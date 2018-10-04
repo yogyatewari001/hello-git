@@ -3,7 +3,7 @@
 Welcome to NOW's practice git repository where you can make as many mistakes as you'd like and learn git while doing it.
 Feel free to make and send us pull requests about anything and discover how git and github work.
 
-## Useful Link
+## Useful Links
 
 + Git Cheat Sheet (A list of cool features of Git and GitHub): https://github.com/tiimgreen/github-cheat-sheet
 + Pro Git Book: https://git-scm.com/book
@@ -62,7 +62,7 @@ git rm <filename>
 ```sh
 git status -s
 ```
-| (M) - Modified | (A) - Added | (AM) - File hasn't been altered since it was last added |
+(M) - Modified, (A) - Added, (AM) - File hasn't been altered since it was last added
 
 
 + ### Commit all files that have been staged
